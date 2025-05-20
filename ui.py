@@ -18,3 +18,4 @@ def show_banner():
 
 def ask_for_file():
     return Prompt.ask("[bold green]Enter path to .exe or binary file[/bold green]")
+
