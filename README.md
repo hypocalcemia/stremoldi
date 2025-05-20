@@ -28,7 +28,7 @@ python main.py
 
 ## Limitations
 
-- The script currently uses a local LLM (OpenAI's GPT-3.5-turbo) to filter out strings. This means that the script is limited to the model's capabilities and cannot handle more complex scenarios.
+- The script currently uses a local LLM (Microsoft/phi-2) to filter out strings. This means that the script is limited to the model's capabilities and cannot handle more complex scenarios.
 - The script currently uses a simple prompt to filter out strings. This means that the script is limited to the model's capabilities and cannot handle more complex scenarios.
 
 ## Contributing
