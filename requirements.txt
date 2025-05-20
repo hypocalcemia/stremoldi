@@ -1,0 +1,6 @@
+rich
+typer
+transformers
+torch
+accelerate
+subprocess
