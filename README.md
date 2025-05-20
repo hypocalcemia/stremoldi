@@ -1,7 +1,7 @@
 # Stremoldi
 
 Stremoldi is a reverse engineering tool that uses a local LLM to filter out unimportant strings from a binary.
-We use it to filter out debug messages, usage templates, error codes, API keys, tokens or passwords, commands or flags, registry paths, URLs, IPs, and malware-like messages from a binary.
+We use it to filter out debug messages, usage templates, error codes, API keys, tokens or passwords, commands or flags, registry paths, URLs, IPs, and malware-like messages from a binary. It is a simple and lightweight tool that can be used to extract valuable information from a binary.
 
 ## Usage
 
